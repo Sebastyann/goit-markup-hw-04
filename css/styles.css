@@ -283,12 +283,8 @@ ol {
 }
 
 /*===============ICON==============*/
-.social-list-adres {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  column-gap: 10px;
-}
+
+
 .social-list {
   display: flex;
   align-items: center;
@@ -443,6 +439,13 @@ ol {
   padding-bottom: 6px;
   padding-left: 22px;
   padding-right: 22px;
+}
+
+.social-list-adres {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  column-gap: 10px;
 }
 .model-open-buttonn:hover,
 .model-open-buttonn:focus {
