@@ -283,13 +283,18 @@ ol {
 }
 
 /*===============ICON==============*/
-
+.social-list-adres {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  column-gap: 10px;
+}
 .social-list {
   display: flex;
   align-items: center;
   justify-content: center;
   column-gap: 10px;
-  padding-bottom: 30px;
+  margin-bottom: 30px;
 }
 
 .social-list-link {
